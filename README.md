@@ -22,4 +22,3 @@ This project includes two Java programs designed to practice array manipulation,
 
 ---
 
-## 🧮 Example Run
