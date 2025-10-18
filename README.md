@@ -1,5 +1,4 @@
-# DataAnalytics_CSE007_Spring2025
-Java 11 programs for CSE007 Homework 3 that perform data analysis tasks such as calculating sales reports and analyzing grade distributions. Demonstrates arrays, loops, conditionals, and formatted console output.
+#  RPG and Random Arrays – CSE007 Homework 3
 
 **Author:** Grace-lilie Acheampong  
 **Course:** CSE007 – Spring 2025  
@@ -10,15 +9,17 @@ Java 11 programs for CSE007 Homework 3 that perform data analysis tasks such as 
 ---
 
 ##  Description
-This project includes two Java programs designed to practice array manipulation, conditional logic, and formatted output for data processing.
+This project contains two Java programs designed to strengthen understanding of **loops, arrays, random number generation, and conditionals**.
 
-1. **SalesReport.java**  
-   Calculates each employee’s total and average sales, then identifies the top-performing employee.  
-   Demonstrates looping through arrays, basic arithmetic operations, and formatted display of data.
+1. **RPG.java**  
+   A simple text-based role-playing game simulator.  
+   The program allows a player to engage in battles against computer-controlled enemies with random attack and defense values.  
+   It uses randomization and branching logic to determine outcomes and display player stats.
 
-2. **GradeAnalyzer.java**  
-   Processes a list of student grades to compute the average, highest, and lowest grades.  
-   Also counts grade distribution (A–F) and provides a summary report with user input validation.
+2. **RandomArrays.java**  
+   Generates an array of random integers and computes various statistics such as minimum, maximum, average, and frequency.  
+   Demonstrates use of arrays, iteration, and formatted data output.
 
 ---
 
+## 🧮 Example Run
